@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="es" prefix="og: http://ogp.me/ns#">
 	<head>
 		<meta charset="UTF-8">
@@ -41,15 +40,15 @@
 	<body class="container">
 		<main>
 			<section class="main">
-				<h1>duhowpi</h1>
+				<h1>BoLeD ID</h1>
 				<p class="bio">
-					Administrador de sistemas y programador web. <br>
-					También conocido como <b>informático</b>. 🖥️ <br>
-					Explorador del 🌍 y amante de la tecnología.
+					Administrador and Network Administrator. <br>
+					WebDevelope <b>Abyfine Intermedia</b>. 🖥️ <br>
+					Ekspolore 🌍 amajing .
 				</p>
 				<p class="current">
-					💼 Actualmente trabajando <a href="https://abyfne.com" target="_blank" rel="noopener">en edrans</a> <br>
-					👨‍💻 como Site Operator / Analista de sistemas.
+					💼 Tukang CuciPiring di <a href="https://abyfne.com" target="_blank" rel="noopener">Like</a> <br>
+					👨‍💻 + Tukang Sapu, tukang Pijat.
 				</p>
 				<p class="history">
 					📖 He trabajado en <a href="https://abyfne.com" target="_blank" rel="noopener">Adam</a> y en <a href="https://www.futbollab.com" target="_blank" rel="noopener">FutbolLab</a> <br>
