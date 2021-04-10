@@ -47,14 +47,14 @@
 					Ekspolore 🌍 amajing .
 				</p>
 				<p class="current">
-					💼 Tukang CuciPiring di <a href="https://abyfne.com" target="_blank" rel="noopener">Like</a> <br>
+					💼 Tukang CuciPiring di <a href="https://abyfine.com" target="_blank" rel="noopener">Like</a> <br>
 					👨‍💻 + Tukang Sapu, tukang Pijat.
 				</p>
 				<p class="history">
-					📖 He trabajado en <a href="https://abyfne.com" target="_blank" rel="noopener">Adam</a> y en <a href="https://www.futbollab.com" target="_blank" rel="noopener">FutbolLab</a> <br>
-					👨‍💻 como Administrador de sistemas. <br>
+					📖 He trabajado en <a href="https://abyfine.com" target="_blank" rel="noopener">Adam</a> y en <a href="https://abyfine.com" target="_blank" rel="noopener">FutbolLab</a> <br>
+					👨‍💻 Administrator. <br>
 					👤 También he desarrollado al <a href="https://t.me/ProfesorOak_bot" target="_blank" rel="noopener">@ProfesorOak_bot</a>. <br>
-					👨‍🎓 Estudié en el <a href="https://abyfne.com" target="_blank" rel="noopener">Instituto Terradas</a>.
+					👨‍🎓 Estudié en el <a href="https://abyfine.com" target="_blank" rel="noopener">UNUGHA</a>.
 				</p>
 				<p class="til">
 					📓 ¿Quieres ver lo que <a href="/til">he aprendido hoy</a>?
